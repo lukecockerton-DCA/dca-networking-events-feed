@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T14:15:00Z",
+  "generated_at": "2026-10-28T14:25:00Z",
   "events": [
     {
       "source_id": "eventbrite:lets-network-leigh-2026-10-30",
@@ -29,6 +29,19 @@
       "image_url": ""
     },
     {
+      "source_id": "southend-networking-group:royal-hotel-2026-11-05",
+      "title": "Southend Networking Group",
+      "date": "2026-11-05",
+      "time": "Lunchtime - exact time TBC",
+      "venue": "The Royal Hotel, 1 High Street, Southend-on-Sea, SS1 1JE",
+      "area": "Southend",
+      "organiser": "Southend Networking Group",
+      "type": "Professional networking",
+      "url": "https://uk.linkedin.com/company/nicholls-law",
+      "description": "Monthly Southend professional networking meeting at The Royal Hotel. The November meeting is sponsored by Metro Bank and Ashlea Cole.",
+      "image_url": ""
+    },
+    {
       "source_id": "essex-chambers:festival-business-visitor-2026-11-11",
       "title": "Festival of Business - Visitor",
       "date": "2026-11-11",
@@ -42,16 +55,16 @@
       "image_url": ""
     },
     {
-      "source_id": "enterprise-networking:chelmsford-2026-11-12",
-      "title": "Chelmsford Breakfast Networking Meeting",
-      "date": "2026-11-12",
-      "time": "07:00 - 09:00",
-      "venue": "Museum of Chelmsford, CM2 9AQ",
-      "area": "Chelmsford",
-      "organiser": "Enterprise Networking",
-      "type": "Breakfast networking",
-      "url": "https://enterprisenetworking.co.uk/join-us/",
-      "description": "Fortnightly breakfast networking for local business owners in Chelmsford, with visitor places available.",
+      "source_id": "business-buzz:southend-relaunch-2026-11-11",
+      "title": "Southend Business Buzz Networking",
+      "date": "2026-11-11",
+      "time": "10:00 - 12:00",
+      "venue": "Grosvenor Casino Southend, Church Road, Southend-on-Sea, SS1 2AL",
+      "area": "Southend",
+      "organiser": "Business Buzz",
+      "type": "Business networking",
+      "url": "https://www.business-buzz.org/essex/southend/",
+      "description": "Southend Business Buzz relaunch with new host Anna Watson at its new home at Grosvenor Casino Southend. Informal, drop-in local business networking with no membership requirement.",
       "image_url": ""
     },
     {
@@ -65,6 +78,19 @@
       "type": "Evening networking",
       "url": "https://www.eventbrite.co.uk/e/chelmsford-powered-up-business-networking-november-2026-tickets-2003208682093",
       "description": "Relaxed evening networking for small business owners and start-ups, with introductions, one-to-ones and a practical guest talk.",
+      "image_url": ""
+    },
+    {
+      "source_id": "enterprise-networking:chelmsford-2026-11-12",
+      "title": "Chelmsford Breakfast Networking Meeting",
+      "date": "2026-11-12",
+      "time": "07:00 - 09:00",
+      "venue": "Museum of Chelmsford, CM2 9AQ",
+      "area": "Chelmsford",
+      "organiser": "Enterprise Networking",
+      "type": "Breakfast networking",
+      "url": "https://enterprisenetworking.co.uk/join-us/",
+      "description": "Fortnightly breakfast networking for local business owners in Chelmsford, with visitor places available.",
       "image_url": ""
     },
     {
@@ -94,19 +120,6 @@
       "image_url": ""
     },
     {
-      "source_id": "essex-business-partnerships:southend-breakfast-2026-11-18",
-      "title": "Rochford and Southend Business Networking Breakfast",
-      "date": "2026-11-18",
-      "time": "08:00 - 10:00",
-      "venue": "Launchpad Southend, Airport Business Park, Rochford, SS4 1YH",
-      "area": "Rochford / Southend",
-      "organiser": "Essex Business Partnerships",
-      "type": "Breakfast networking",
-      "url": "https://events.humanitix.com/southend-breakfast-meeting",
-      "description": "Relaxed monthly breakfast networking for businesses across Rochford and Southend, focused on connection, collaboration and local business growth.",
-      "image_url": ""
-    },
-    {
       "source_id": "iwant2network:marconi-2026-11-18",
       "title": "Braintree & Chelmsford Marconi Networking Group",
       "date": "2026-11-18",
@@ -120,6 +133,19 @@
       "image_url": ""
     },
     {
+      "source_id": "essex-business-partnerships:southend-breakfast-2026-11-18",
+      "title": "Rochford and Southend Business Networking Breakfast",
+      "date": "2026-11-18",
+      "time": "08:00 - 10:00",
+      "venue": "Launchpad Southend, Airport Business Park, Rochford, SS4 1YH",
+      "area": "Rochford / Southend",
+      "organiser": "Essex Business Partnerships",
+      "type": "Breakfast networking",
+      "url": "https://events.humanitix.com/southend-breakfast-meeting",
+      "description": "Relaxed monthly breakfast networking for businesses across Rochford and Southend, focused on connection, collaboration and local business growth.",
+      "image_url": ""
+    },
+    {
       "source_id": "networking-essex:southend-2026-11-19",
       "title": "Networking Essex - Southend",
       "date": "2026-11-19",
@@ -130,6 +156,19 @@
       "type": "Business networking",
       "url": "https://networking-essex.co.uk/events/",
       "description": "Free lunchtime networking event in Southend for businesses and professionals looking to make local connections.",
+      "image_url": ""
+    },
+    {
+      "source_id": "women-owned-essex:southend-2026-11-20",
+      "title": "Women Owned Essex November Meetup - Southend",
+      "date": "2026-11-20",
+      "time": "10:00 - 12:00",
+      "venue": "The Royal Hotel, 1 High Street, Southend-on-Sea, SS1 1JE",
+      "area": "Southend",
+      "organiser": "Women Owned Essex",
+      "type": "Women in business networking",
+      "url": "https://www.eventbrite.co.uk/e/women-owned-essex-nov-meetup-southend-on-sea-tickets-2000385857950",
+      "description": "Relaxed monthly meetup for local women in business to make connections, share experiences and support one another.",
       "image_url": ""
     },
     {
