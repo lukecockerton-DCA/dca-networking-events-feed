@@ -1,20 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T11:17:00Z",
+  "generated_at": "2026-10-31T22:30:00Z",
   "events": [
-    {
-      "source_id": "eventbrite:lets-network-leigh-2026-10-30",
-      "title": "Let's Network",
-      "date": "2026-10-30",
-      "time": "07:00 - 09:00",
-      "venue": "Gas, 43 Progress Road, Leigh-on-Sea, SS9 5PR",
-      "area": "Leigh-on-Sea",
-      "organiser": "Let's Network",
-      "type": "Breakfast networking",
-      "url": "https://www.eventbrite.co.uk/e/lets-network-tickets-2003594174110",
-      "description": "Informal breakfast networking for local business owners, with time to meet, collaborate and showcase expertise.",
-      "image_url": ""
-    },
     {
       "source_id": "eventbrite:southend-construction-networking-2026-11-03",
       "title": "Southend Construction Networking Event",
@@ -29,6 +16,32 @@
       "image_url": ""
     },
     {
+      "source_id": "sorbus:leigh-breakfast-2026-11-04",
+      "title": "Sorbus Breakfast Business Networking Group",
+      "date": "2026-11-04",
+      "time": "07:30 - 09:00",
+      "venue": "Belfairs Woodland Centre, Eastwood Road North, Leigh-on-Sea, SS9 4LR",
+      "area": "Leigh-on-Sea",
+      "organiser": "Sorbus Breakfast Business Networking Group",
+      "type": "Breakfast networking",
+      "url": "https://sorbusbusinessnetworking.co.uk/",
+      "description": "Pay-as-you-go breakfast networking for local business owners and professionals. £10 cash including breakfast and hot drinks; book through the organiser.",
+      "image_url": ""
+    },
+    {
+      "source_id": "southend-council:business-partnership-briefing-2026-11-05",
+      "title": "Southend Business Partnership Breakfast Briefing",
+      "date": "2026-11-05",
+      "time": "07:30 - 10:30",
+      "venue": "Cliffs Pavilion, Station Road, Southend-on-Sea, SS0 7RA",
+      "area": "Southend-on-Sea",
+      "organiser": "Southend-on-Sea City Council",
+      "type": "Business briefing & breakfast networking",
+      "url": "https://www.eventbrite.co.uk/e/southend-business-partnership-briefing-5-november-2026-tickets-1994928511881",
+      "description": "Free council-backed business breakfast, presentations and networking for local business owners and decision-makers. Booking advised; places may sell out.",
+      "image_url": ""
+    },
+    {
       "source_id": "southend-networking-group:royal-hotel-2026-11-05",
       "title": "Southend Networking Group",
       "date": "2026-11-05",
@@ -39,6 +52,19 @@
       "type": "Professional networking",
       "url": "https://uk.linkedin.com/company/nicholls-law",
       "description": "Monthly Southend professional networking meeting at The Royal Hotel. The November meeting is sponsored by Metro Bank and Ashlea Cole.",
+      "image_url": ""
+    },
+    {
+      "source_id": "networking-essex:directors-breakfast-2026-11-11",
+      "title": "Directors Club Breakfast",
+      "date": "2026-11-11",
+      "time": "08:00 - 10:00",
+      "venue": "Galvin Green Man, Main Road, Howe Street, Great Waltham, CM3 1BG",
+      "area": "Chelmsford",
+      "organiser": "Networking Essex",
+      "type": "Directors networking",
+      "url": "https://networking-essex.co.uk/directors-club/",
+      "description": "Members-only breakfast networking for business directors.",
       "image_url": ""
     },
     {
@@ -65,19 +91,6 @@
       "type": "Business exhibition & networking",
       "url": "https://membersportal.essexchambers.co.uk/event-details/?id=00952c8f-cafa-f011-8406-000d3a86f7dc&name=Festival+of+Business+-+Visitor&type=Exhibitions",
       "description": "One of Essex's major business events, bringing together professionals, entrepreneurs and decision-makers for networking, exhibitors and business insight.",
-      "image_url": ""
-    },
-    {
-      "source_id": "networking-essex:directors-breakfast-2026-11-11",
-      "title": "Directors Club Breakfast",
-      "date": "2026-11-11",
-      "time": "08:00 - 10:00",
-      "venue": "Galvin Green Man, Main Road, Howe Street, Great Waltham, CM3 1BG",
-      "area": "Chelmsford",
-      "organiser": "Networking Essex",
-      "type": "Directors networking",
-      "url": "https://networking-essex.co.uk/directors-club/",
-      "description": "Members-only breakfast networking for business directors.",
       "image_url": ""
     },
     {
@@ -120,6 +133,19 @@
       "image_url": ""
     },
     {
+      "source_id": "usp-college:big-breakfast-2026-11-13",
+      "title": "USP College Big Breakfast",
+      "date": "2026-11-13",
+      "time": "08:30 - 10:00",
+      "venue": "USP College - Seevic Campus, Runnymede Chase, Benfleet, SS7 1TW",
+      "area": "Benfleet",
+      "organiser": "USP College",
+      "type": "Business breakfast & employer networking",
+      "url": "https://www.uspcollege.ac.uk/news-events-blog/events/usp-college-big-breakfast/",
+      "description": "Network with local employers, industry stakeholders and college partners over refreshments. Includes updates on skills, adult learning and apprenticeships.",
+      "image_url": ""
+    },
+    {
       "source_id": "powered-up:south-east-essex-2026-11-17",
       "title": "South East Essex - Powered Up Business Networking",
       "date": "2026-11-17",
@@ -143,6 +169,32 @@
       "type": "Breakfast networking",
       "url": "https://events.humanitix.com/southend-breakfast-meeting",
       "description": "Relaxed monthly breakfast networking for businesses across Rochford and Southend, focused on connection, collaboration and local business growth.",
+      "image_url": ""
+    },
+    {
+      "source_id": "essex-wildlife-trust:thurrock-business-networking-2026-11-18",
+      "title": "Essex Wildlife Trust Thurrock Business Networking",
+      "date": "2026-11-18",
+      "time": "09:30 - 12:00",
+      "venue": "Chafford Gorges Nature Park, Drake Road, Chafford Hundred",
+      "area": "Thurrock",
+      "organiser": "Essex Wildlife Trust",
+      "type": "Business networking",
+      "url": "https://www.eventbrite.co.uk/e/essex-wildlife-trust-thurrock-business-networking-event-tickets-2003189899915",
+      "description": "Free networking for local businesses and community partners, including representatives from Thurrock organisations. Registration and refreshments from 9:30am.",
+      "image_url": ""
+    },
+    {
+      "source_id": "get-ahead:get-connected-southend-2026-11-18",
+      "title": "Get Connected - Southend",
+      "date": "2026-11-18",
+      "time": "10:00 - 11:30",
+      "venue": "Metro Bank Southend, The Victoria Business Centre, Southend-on-Sea, SS1 2NG",
+      "area": "Southend-on-Sea",
+      "organiser": "Get Ahead / Metro Bank",
+      "type": "Business networking",
+      "url": "https://getaheadva.com/get-connected/",
+      "description": "Free informal drop-in B2B networking hosted locally by Ashlea Cole and Dave Webster at Metro Bank Southend. No category lockouts or pitches.",
       "image_url": ""
     },
     {
@@ -195,6 +247,19 @@
       "type": "Women in business networking",
       "url": "https://www.eventbrite.co.uk/e/women-owned-essex-nov-meetup-southend-on-sea-tickets-2000385857950",
       "description": "Relaxed monthly meetup for local women in business to make connections, share experiences and support one another.",
+      "image_url": ""
+    },
+    {
+      "source_id": "essex-business-partnerships:women-southend-2026-11-24",
+      "title": "Southend - Supporting Women in Business",
+      "date": "2026-11-24",
+      "time": "10:00 - 12:00",
+      "venue": "Bits on the Side, 117 Rectory Grove, Leigh-on-Sea, SS9 2HL",
+      "area": "Leigh-on-Sea / Southend",
+      "organiser": "Essex Business Partnerships",
+      "type": "Women in business networking",
+      "url": "https://events.humanitix.com/southend-supporting-women-in-business",
+      "description": "Monthly women-in-business networking focused on introductions, collaboration and professional relationships. Booking required.",
       "image_url": ""
     },
     {
@@ -263,6 +328,45 @@
       "image_url": ""
     },
     {
+      "source_id": "sorbus:leigh-breakfast-2026-12-02",
+      "title": "Sorbus Breakfast Business Networking Group",
+      "date": "2026-12-02",
+      "time": "07:30 - 09:00",
+      "venue": "Belfairs Woodland Centre, Eastwood Road North, Leigh-on-Sea, SS9 4LR",
+      "area": "Leigh-on-Sea",
+      "organiser": "Sorbus Breakfast Business Networking Group",
+      "type": "Breakfast networking",
+      "url": "https://sorbusbusinessnetworking.co.uk/",
+      "description": "Friendly £10 pay-as-you-go breakfast networking for business owners and professionals; book by email with the organiser.",
+      "image_url": ""
+    },
+    {
+      "source_id": "women-owned-essex:winning-women-christmas-lunch-2026-12-03",
+      "title": "Women Owned Essex & Winning Women Christmas Lunch",
+      "date": "2026-12-03",
+      "time": "11:00 - 14:00",
+      "venue": "The Royal Hotel, High Street, Southend-on-Sea",
+      "area": "Southend-on-Sea",
+      "organiser": "Women Owned Essex / Winning Women",
+      "type": "Women in business lunch & networking",
+      "url": "https://www.eventbrite.co.uk/e/women-owned-essex-winning-women-christmas-lunch-tickets-2003085239874",
+      "description": "Joint festive networking lunch for women business owners and professionals, with a two-course lunch and opportunities to meet both communities.",
+      "image_url": ""
+    },
+    {
+      "source_id": "riba:south-essex-winter-social-2026-12-03",
+      "title": "RIBA South Essex Winter Social",
+      "date": "2026-12-03",
+      "time": "17:30 - 23:00",
+      "venue": "Kingpins Bowl, Lucy Road, Southend-on-Sea, followed by The Mews",
+      "area": "Southend-on-Sea",
+      "organiser": "RIBA South Essex",
+      "type": "Architecture & built environment professional social",
+      "url": "https://stayhappening.com/e/riba-south-essex-winter-social-E118SB7G1P464",
+      "description": "Professional social for RIBA members and people working in architecture, design and the built environment. £20 non-member ticket; check eligibility before booking.",
+      "image_url": ""
+    },
+    {
       "source_id": "enterprise-networking:chelmsford-2026-12-10",
       "title": "Chelmsford Breakfast Networking Meeting",
       "date": "2026-12-10",
@@ -286,6 +390,19 @@
       "type": "Virtual networking",
       "url": "https://membersportal.essexchambers.co.uk/event-search/",
       "description": "Interactive virtual networking to strengthen existing relationships, make new connections and reflect on business lessons from 2026.",
+      "image_url": ""
+    },
+    {
+      "source_id": "get-ahead:get-connected-southend-2026-12-16",
+      "title": "Get Connected - Southend",
+      "date": "2026-12-16",
+      "time": "10:00 - 11:30",
+      "venue": "Metro Bank Southend, The Victoria Business Centre, Southend-on-Sea, SS1 2NG",
+      "area": "Southend-on-Sea",
+      "organiser": "Get Ahead / Metro Bank",
+      "type": "Business networking",
+      "url": "https://getaheadva.com/get-connected/",
+      "description": "Free local drop-in B2B networking hosted by Get Ahead and Metro Bank. No presentations or professional-category restrictions.",
       "image_url": ""
     },
     {
