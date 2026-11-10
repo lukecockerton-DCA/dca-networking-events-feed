@@ -1,20 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T08:11:34.850Z",
+  "generated_at": "2026-11-10T08:06:05.072Z",
   "events": [
-    {
-      "source_id": "basildon-business-leaders:metro-bank-2026-11-09",
-      "title": "Basildon Business Leaders - Free Networking",
-      "date": "2026-11-09",
-      "time": "09:30 - 11:00",
-      "venue": "Metro Bank, 2 East Walk, Basildon, SS14 1HH",
-      "area": "Basildon",
-      "organiser": "Basildon Business Leaders / Metro Bank / FSB",
-      "type": "Free small-business networking",
-      "url": "https://www.tickettailor.com/events/basildonbusinessleaders/1240673",
-      "description": "Free second-Monday monthly South Essex networking for business owners, entrepreneurs and professionals. Check availability on organiser booking calendar.",
-      "image_url": ""
-    },
     {
       "source_id": "wibn:leigh-2026-11-10",
       "title": "Leigh-on-Sea Women in Business Network",
@@ -117,6 +104,19 @@
       "type": "Breakfast networking",
       "url": "https://enterprisenetworking.co.uk/join-us/",
       "description": "Fortnightly breakfast networking for local business owners in Chelmsford, with visitor places available.",
+      "image_url": ""
+    },
+    {
+      "source_id": "birketts:employment-immigration-update-chelmsford-2026-11-12",
+      "title": "Birketts' Employment and Immigration Update 2026 - Chelmsford",
+      "date": "2026-11-12",
+      "time": "09:00 - 13:00",
+      "venue": "Birketts LLP, 160-162 New London Road, Chelmsford, CM2 0AP",
+      "area": "Chelmsford / Essex",
+      "organiser": "Birketts LLP",
+      "type": "Legal and employer briefing with professional networking",
+      "url": "https://www.eventbrite.co.uk/e/birketts-employment-and-immigration-update-2026-chelmsford-tickets-1994572083795",
+      "description": "Employment and immigration law briefing for HR professionals and business leaders, hosted by Birketts solicitors. An opportunity to meet legal advisers and employer decision-makers. £125 + VAT per person including refreshments and lunch, per organiser; advance registration, limited places and maximum four bookings per organisation.",
       "image_url": ""
     },
     {
@@ -636,7 +636,7 @@
       "organiser": "Women Owned Essex / Winning Women",
       "type": "Women in business lunch & networking",
       "url": "https://www.eventbrite.co.uk/e/women-owned-essex-winning-women-christmas-lunch-tickets-2003085239874",
-      "description": "Joint festive networking lunch for women business owners and professionals, with a two-course lunch and opportunities to meet both communities.",
+      "description": "Joint festive networking lunch for women business owners and professionals, with a two-course lunch and opportunities to meet both communities. Eventbrite displayed 'almost full' for this Southend event when checked on 10 November 2026; book promptly if interested.",
       "image_url": ""
     },
     {
@@ -784,7 +784,7 @@
     },
     {
       "source_id": "business-uncorked:bottomless-brunch-2026-12-11",
-      "title": "Business Uncorked's Quarterly Bottomless Brunch",
+      "title": "Business Uncorked's Christmas Bottomless Brunch",
       "date": "2026-12-11",
       "time": "12:45 - 14:45",
       "venue": "The Cork Dork, 84 The Ridgeway, Chalkwell, Southend-on-Sea, SS0 8NU",
@@ -793,6 +793,19 @@
       "type": "Business networking lunch",
       "url": "https://www.eventbrite.co.uk/e/business-uncorkeds-quarterly-bottomless-brunch-tickets-1993849894708",
       "description": "Ticketed business networking over wine and cheese. Organiser advertises £70 early bird / £75 standard including VAT; check current availability.",
+      "image_url": ""
+    },
+    {
+      "source_id": "bekkmaaf:essex-founders-lounge-chelmsford-2026-12-12",
+      "title": "The Essex Founders Lounge - Founders Breakfast",
+      "date": "2026-12-12",
+      "time": "09:00 - 12:00",
+      "venue": "Bill's Chelmsford Restaurant, 119 Bond Street, Chelmsford, CM1 1GD",
+      "area": "Chelmsford / Essex",
+      "organiser": "BEKKMAAF Global Networks",
+      "type": "Business founder and entrepreneur breakfast networking",
+      "url": "https://www.eventbrite.co.uk/e/the-essex-founders-lounge-founders-breakfast-tickets-1999201436313",
+      "description": "Launch breakfast for Essex business founders and entrepreneurs, with curated networking, founder spotlights and a breakfast gathering. Organiser caps attendance at 25 people. Eventbrite displayed tickets from £38.62, subject to current availability.",
       "image_url": ""
     },
     {
@@ -871,6 +884,19 @@
       "type": "Business networking",
       "url": "https://networking-essex.co.uk/events/",
       "description": "Free lunchtime networking event for businesses and professionals in Chelmsford.",
+      "image_url": ""
+    },
+    {
+      "source_id": "helen-baker:purpose-and-profits-launchpad-2027-01-15",
+      "title": "Practical Workshop: Purpose and Profits",
+      "date": "2027-01-15",
+      "time": "09:30 - 12:30",
+      "venue": "Launchpad Southend, Airport Business Park, Rochford, SS4 1YH",
+      "area": "Rochford / Southend-on-Sea",
+      "organiser": "Helen Baker Consultancy / Launchpad Southend",
+      "type": "SME profitability workshop and professional networking",
+      "url": "https://www.launchpadsouthend.co.uk/event/practical-workshop-purpose-and-profits/",
+      "description": "An in-person practical session for business owners on aligning business purpose with profitability, financial goals and achievable next steps. Listed at £99. Organiser's event page links to booking information; check availability before attending.",
       "image_url": ""
     },
     {
@@ -988,6 +1014,19 @@
       "type": "Business awards, professional networking and sponsorship",
       "url": "https://ceec.wildapricot.org/event-6778209",
       "description": "Construction, property and professional-services awards event; organiser reports around 300 key industry attendees previously. Individual ticket £125, half table £365, table of eight £725. Sponsor packages advertised: drinks reception £300, single award £500, headline £1,200. Entries open 20 November 2026, close 12 February 2027. Check packages with organiser before booking.",
+      "image_url": ""
+    },
+    {
+      "source_id": "best-sme-awards:grand-final-stansted-2027-04-23",
+      "title": "Best SME Awards 2027 - Gala Awards Night",
+      "date": "2027-04-23",
+      "time": "18:00 - 23:00 (after-party until midnight)",
+      "venue": "Radisson Blu Hotel London Stansted Airport, Stansted Airport, Essex",
+      "area": "Stansted / Essex",
+      "organiser": "Best SME Awards",
+      "type": "SME awards ceremony and professional networking",
+      "url": "https://bestsmeawards.co.uk/",
+      "description": "SME business awards gala celebrating UK small and medium-sized firms. Organiser confirms 23 April 2027 at the Radisson Blu Stansted Airport. Entry categories cost £39 + VAT each; nominations for Best Employee, Best Impact and Charity Champion are free. Entries close 1 February 2027 at 18:00; contact organiser for event tickets or sponsorship.",
       "image_url": ""
     }
   ]
