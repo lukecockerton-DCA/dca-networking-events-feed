@@ -1,20 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T08:06:05.072Z",
+  "generated_at": "2026-11-11T08:04:02.785Z",
   "events": [
-    {
-      "source_id": "wibn:leigh-2026-11-10",
-      "title": "Leigh-on-Sea Women in Business Network",
-      "date": "2026-11-10",
-      "time": "12:00 - 14:00",
-      "venue": "Thamesbreeze Bar and Restaurant, 127 Leigh Road, Leigh-on-Sea, SS9 1JQ",
-      "area": "Leigh-on-Sea",
-      "organiser": "Women in Business Network (WIBN)",
-      "type": "Women's professional networking lunch",
-      "url": "https://wibn.co.uk/events/EventDetails.aspx?group=&id=2068387",
-      "description": "Structured women-in-business networking and lunch with professional introductions. Visitor fee £35 plus VAT; registration and group leader confirmation required.",
-      "image_url": ""
-    },
     {
       "source_id": "networking-essex:directors-breakfast-2026-11-11",
       "title": "Directors Club Breakfast",
@@ -172,6 +159,19 @@
       "image_url": ""
     },
     {
+      "source_id": "fsb-stepping-out:gravesend-2026-11-12",
+      "title": "Stepping Out With FSB Connects - £12.50 Promotional Space",
+      "date": "2026-11-12",
+      "time": "17:30 - 19:30",
+      "venue": "Whitehall Place, 47 The Terrace, Gravesend, DA12 2DL",
+      "area": "Gravesend / Kent",
+      "organiser": "Stepping Out and Federation of Small Businesses",
+      "type": "Free small business networking / low-cost promotion",
+      "url": "https://www.eventbrite.com/e/stepping-out-with-fsb-connects-tickets-1985989378693",
+      "description": "Free business networking open to members and non-members. Organiser advertises a limited number of promotional spaces at £12.50 to display a banner and leave leaflets on a business table; NOT a full exhibition stand. Book in advance; check that promotional spaces remain available.",
+      "image_url": ""
+    },
+    {
       "source_id": "powered-up:chelmsford-2026-11-12",
       "title": "Chelmsford - Powered Up Business Networking",
       "date": "2026-11-12",
@@ -208,6 +208,19 @@
       "type": "Free SME leadership workshop & networking",
       "url": "https://www.launchpadsouthend.co.uk/event/stop-wasting-time-and-money-on-the-wrong-technology/",
       "description": "Fully funded workshop for business owners, directors and senior decision-makers. Informal networking from 9am, lunch included; limited places, early booking recommended.",
+      "image_url": ""
+    },
+    {
+      "source_id": "southend-tech:basildon-meetup-2026-11-15",
+      "title": "Basildon Tech Meetup - November",
+      "date": "2026-11-15",
+      "time": "17:30 - 19:30",
+      "venue": "Orleto Lounge, 2 East Square, Basildon, SS14 1HS",
+      "area": "Basildon",
+      "organiser": "Basildon Tech Meetup / Southend Tech",
+      "type": "Technology professionals networking",
+      "url": "https://www.southendtech.co.uk/basildon-tech-meetup",
+      "description": "Monthly third-Sunday informal networking for technology, digital and AI professionals at Orleto Lounge; over-18s. Organiser and Eventbrite listings confirm the November 15 meeting. Check entry requirements with organiser.",
       "image_url": ""
     },
     {
@@ -272,7 +285,7 @@
       "organiser": "Havering Chamber of Commerce and partner Chambers",
       "type": "Business networking & exhibition",
       "url": "https://www.haveringchamber.co.uk/event/mega-networking-event/",
-      "description": "Cross-Chamber networking with local business decision-makers. Visitor tickets £5 members / £10 non-members. Five exhibitor stands offered at £150 each; contact organiser to check remaining availability.",
+      "description": "Cross-Chamber networking with local business decision-makers. Visitor tickets £5 members / £10 non-members, and Eventbrite's listing marked the event 'selling fast' on 11 November. Five exhibitor stands originally offered at £150 each; their remaining availability is unconfirmed, so contact organiser before committing.",
       "image_url": ""
     },
     {
@@ -415,7 +428,7 @@
       "organiser": "Ambitious Essex",
       "type": "Free business workshop & networking",
       "url": "https://www.eventbrite.co.uk/e/in-person-grow-with-digital-scaling-future-proofing-your-business-tickets-1994298996985",
-      "description": "Free Essex-business workshop on AI, automation and growth, with networking and representatives from FSB, Launchpad and other business support partners. Registration required.",
+      "description": "Free Essex-business workshop on AI, automation and growth, with networking and representatives from FSB, Launchpad and business-support partners. IMPORTANT: Eventbrite's local events listing marked this workshop 'almost full' on 11 November 2026; book promptly and verify remaining tickets with organiser.",
       "image_url": ""
     },
     {
@@ -454,7 +467,7 @@
       "organiser": "Women Owned Essex",
       "type": "Women in business networking",
       "url": "https://www.eventbrite.co.uk/e/women-owned-essex-nov-meetup-southend-on-sea-tickets-2000385857950",
-      "description": "Relaxed monthly meetup for local women in business to make connections, share experiences and support one another.",
+      "description": "Relaxed monthly meetup for local women in business at The Royal Hotel. IMPORTANT: Eventbrite's regional discovery listing described tickets as 'almost full' on 11 November 2026, while a third-party events directory reported sold out. Live capacity cannot be confirmed through the organiser's public event page; check Eventbrite checkout or contact organiser before travelling.",
       "image_url": ""
     },
     {
@@ -611,6 +624,19 @@
       "type": "Breakfast networking",
       "url": "https://sorbusbusinessnetworking.co.uk/",
       "description": "Friendly £10 pay-as-you-go breakfast networking for business owners and professionals; book by email with the organiser.",
+      "image_url": ""
+    },
+    {
+      "source_id": "think-believe:sheppey-breakfast-2026-12-02",
+      "title": "Sheppey Breakfast Club - Business Networking",
+      "date": "2026-12-02",
+      "time": "09:30 - 11:00",
+      "venue": "IslandWorks at Dockyard Church, Garrison Road, Sheerness, ME12 1ED",
+      "area": "Isle of Sheppey / Kent",
+      "organiser": "Think & Believe CIC",
+      "type": "Business breakfast networking",
+      "url": "https://www.eventbrite.com/e/breakfast-club-networking-event-tickets-1985442794846",
+      "description": "Monthly first-Wednesday networking for Isle of Sheppey local business owners, £10 including a hot drink and breakfast roll. Booking page has multiple event dates; choose 2 December and check availability.",
       "image_url": ""
     },
     {
@@ -783,6 +809,19 @@
       "image_url": ""
     },
     {
+      "source_id": "danielle-belton:rayleigh-business-luncheon-2026-12-11",
+      "title": "Business Luncheon with Danielle Belton",
+      "date": "2026-12-11",
+      "time": "12:30 - 14:30",
+      "venue": "Rayleigh Conservative Club, 7 London Hill, Rayleigh, SS6 7HW",
+      "area": "Rayleigh / Castle Point",
+      "organiser": "Danielle Belton",
+      "type": "Business networking luncheon",
+      "url": "https://www.eventbrite.co.uk/e/business-luncheon-with-danielle-belton-tickets-2004434906764",
+      "description": "Informal business networking with Councillor Danielle Belton, including a light buffet and cash bar. Eventbrite booking open; listed as free in event directories, but confirm current admission terms in booking checkout.",
+      "image_url": ""
+    },
+    {
       "source_id": "business-uncorked:bottomless-brunch-2026-12-11",
       "title": "Business Uncorked's Christmas Bottomless Brunch",
       "date": "2026-12-11",
@@ -949,6 +988,19 @@
       "type": "Business expo, exhibition & sponsorship",
       "url": "https://networking-essex.co.uk/south-essex-business-expo-2027/",
       "description": "Major South Essex business expo with free visitor entry. Exhibition stands and sponsorship enquiries open through organiser at aaron@networking-essex.co.uk; current stand pricing not published on this event page.",
+      "image_url": ""
+    },
+    {
+      "source_id": "ciob:maidstone-construction-dinner-2027-03-11",
+      "title": "Maidstone Construction Professionals' Dinner 2027",
+      "date": "2027-03-11",
+      "time": "19:00 - 00:30 (12 March)",
+      "venue": "Tudor Park Marriott Hotel & Country Club, Ashford Road, Bearsted, ME14 4NQ",
+      "area": "Maidstone / Kent",
+      "organiser": "Chartered Institute of Building - Maidstone Hub",
+      "type": "Construction and property professional networking dinner",
+      "url": "https://www.ciob.org/events/maidstone-construction-professionals-dinner-2027-1999653242678",
+      "description": "CIOB's black-tie construction industry networking dinner. Individual tickets £140; tables of 10 £1,400. Strong contacts among developers, contractors, construction professionals and advisers. Advance booking recommended; the organiser notes this annual event frequently sells out.",
       "image_url": ""
     },
     {
