@@ -1,85 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T08:04:02.785Z",
+  "generated_at": "2026-11-12T08:08:45.625Z",
   "events": [
-    {
-      "source_id": "networking-essex:directors-breakfast-2026-11-11",
-      "title": "Directors Club Breakfast",
-      "date": "2026-11-11",
-      "time": "08:00 - 10:00",
-      "venue": "Galvin Green Man, Main Road, Howe Street, Great Waltham, CM3 1BG",
-      "area": "Chelmsford",
-      "organiser": "Networking Essex",
-      "type": "Directors networking",
-      "url": "https://networking-essex.co.uk/directors-club/",
-      "description": "Members-only breakfast networking for business directors.",
-      "image_url": ""
-    },
-    {
-      "source_id": "business-buzz:southend-relaunch-2026-11-11",
-      "title": "Southend Business Buzz Networking",
-      "date": "2026-11-11",
-      "time": "10:00 - 12:00",
-      "venue": "Grosvenor Casino Southend, Church Road, Southend-on-Sea, SS1 2AL",
-      "area": "Southend",
-      "organiser": "Business Buzz",
-      "type": "Business networking",
-      "url": "https://www.business-buzz.org/essex/southend/",
-      "description": "Southend Business Buzz with host Anna Watson at Grosvenor Casino Southend; Wednesday 11 November 2026, 10:00-12:00. Drop-in networking, no membership or category lock-outs. Organiser confirms £10 + VAT visitor cost, book via the official Buzz Booking App. Sponsorship of this Southend group is advertised; contact Business Buzz to ask about pricing and availability.",
-      "image_url": ""
-    },
-    {
-      "source_id": "essex-chambers:festival-business-visitor-2026-11-11",
-      "title": "Festival of Business - Visitor",
-      "date": "2026-11-11",
-      "time": "10:00 - 15:00",
-      "venue": "Braxted Park Estate, Great Braxted, Witham, CM8 3EN",
-      "area": "Essex",
-      "organiser": "Essex Chambers of Commerce",
-      "type": "Business exhibition & networking",
-      "url": "https://membersportal.essexchambers.co.uk/event-details/?id=00952c8f-cafa-f011-8406-000d3a86f7dc&name=Festival+of+Business+-+Visitor&type=Exhibitions",
-      "description": "Major Essex business exhibition and networking at Braxted Park Estate, 11 November, 10:00-15:00; free visitor registration. IMPORTANT AVAILABILITY UPDATE (checked 8 November 2026): Essex Chambers' official exhibitor booking page says exhibition stands are FULLY BOOKED, waiting list only. Half-page brochure advertising at £75 + VAT and full-page at £125 + VAT are both SOLD OUT. Stand prices were £395 + VAT members / £700 + VAT non-members. Exhibitor waiting-list and visitor registration are separate; see the official organiser booking pages.",
-      "image_url": ""
-    },
-    {
-      "source_id": "wibn:billericay-basildon-2026-11-11",
-      "title": "Billericay & Basildon WIBN Networking Lunch",
-      "date": "2026-11-11",
-      "time": "12:00 - 14:00",
-      "venue": "Holiday Inn Basildon, Waterfront Walk, Basildon, SS14 3DG",
-      "area": "Basildon / Billericay",
-      "organiser": "Women in Business Network (WIBN)",
-      "type": "Women in business professional networking",
-      "url": "https://wibn.co.uk/events/EventDetails.aspx?group=&id=2068393",
-      "description": "Structured women-in-business networking for South Essex professionals and business owners. Visitors register for organiser approval; in-person visitor fee generally £35 + VAT including lunch.",
-      "image_url": ""
-    },
-    {
-      "source_id": "riba:south-essex-make-mingle-2026-11-11",
-      "title": "RIBA South Essex: Make & Mingle",
-      "date": "2026-11-11",
-      "time": "18:30 - 20:30",
-      "venue": "Create98, 98 Broadway, Leigh-on-Sea, SS9 1AB",
-      "area": "Leigh-on-Sea / Southend",
-      "organiser": "RIBA South Essex",
-      "type": "Built-environment professional networking",
-      "url": "https://www.eventbrite.com/e/riba-south-essex-make-mingle-tickets-2002647020147",
-      "description": "Creative networking evening for architects and built-environment professionals. Activity fees may apply; check booking suitability.",
-      "image_url": ""
-    },
-    {
-      "source_id": "business-show-media:london-business-show-2026-11-11",
-      "title": "The Business Show London 2026 - Free SME Expo",
-      "date": "2026-11-11",
-      "time": "Wed 10:00 - 17:00; Thu 12 Nov 10:00 - 16:00",
-      "venue": "ExCeL London, Royal Victoria Dock, 1 Western Gateway, London, E16 1XL",
-      "area": "East London",
-      "organiser": "Business Show Media Ltd",
-      "type": "Business exhibition & free speed networking",
-      "url": "https://www.greatbritishbusinessshow.co.uk/",
-      "description": "11-12 November 2026. Free-to-attend major SME and start-up trade expo at ExCeL with business owners, advisers, finance, legal and technology suppliers, seminars and free speed networking. Speed networking and masterclasses require pre-booking. Exhibition stand pricing is not confirmed.",
-      "image_url": ""
-    },
     {
       "source_id": "enterprise-networking:chelmsford-2026-11-12",
       "title": "Chelmsford Breakfast Networking Meeting",
@@ -260,6 +182,19 @@
       "type": "Business breakfast networking",
       "url": "https://events.humanitix.com/host/essex-business-partnerships",
       "description": "Business breakfast networking with Essex Business Partnerships for local business owners and professionals. Check ticket details with organiser.",
+      "image_url": ""
+    },
+    {
+      "source_id": "essex-chambers:cybercrime-workshop-rochford-2026-11-17",
+      "title": "Are You Protected from Cybercrime? - Essex Police Workshop",
+      "date": "2026-11-17",
+      "time": "10:00 - 12:00",
+      "venue": "Launchpad Southend, Airport Business Park, Cherry Orchard Way, Rochford, SS4 1YH",
+      "area": "Rochford / Southend",
+      "organiser": "Essex Chambers of Commerce / Essex Police Cyber Protect Team",
+      "type": "Business cyber-security seminar",
+      "url": "https://membersportal.essexchambers.co.uk/event-details/?id=7415ca2e-e860-f111-a826-000d3a870ed8&name=Are+You+Protected+from+Cybercrime+Workshop&type=Business+Workshops",
+      "description": "Cyber-security workshop for businesses with Essex Police, including practical demonstrations and Q&A. Free for members; £45 + VAT non-members. Organiser booking page marks event completely booked as at 12 November 2026.",
       "image_url": ""
     },
     {
@@ -757,6 +692,19 @@
       "image_url": ""
     },
     {
+      "source_id": "essex-chambers:christmas-networking-stansted-2026-12-09",
+      "title": "Essex Chambers Christmas Networking at Radisson Blu Stansted",
+      "date": "2026-12-09",
+      "time": "16:30 - 18:30",
+      "venue": "Radisson Blu Hotel London Stansted Airport, Waltham Close, Stansted, CM24 1PP",
+      "area": "Stansted / Essex",
+      "organiser": "Essex Chambers of Commerce",
+      "type": "Business and professional networking",
+      "url": "https://membersportal.essexchambers.co.uk/event-details/?id=d4b3f8ed-2984-f111-ab0f-70a8a57836bd&name=Christmas+Networking+at+the+Radisson+Blu+Stansted&type=Networking+Events",
+      "description": "Business and professional festive networking, buffet and hotel facilities tour. £30 + VAT members, £50 + VAT non-members (early-bird closed). The organiser's booking page states completely booked as at 12 November 2026.",
+      "image_url": ""
+    },
+    {
       "source_id": "wibn:essex-festive-leigh-2026-12-09",
       "title": "WIBN Essex Festive Networking Evening",
       "date": "2026-12-09",
@@ -926,6 +874,32 @@
       "image_url": ""
     },
     {
+      "source_id": "networking-essex:colchester-2027-01-14",
+      "title": "Networking Essex - Colchester",
+      "date": "2027-01-14",
+      "time": "12:00 - 14:00",
+      "venue": "Colchester Ravens Park, Cuckoo Farm Way, Colchester, CO4 5JA",
+      "area": "Colchester",
+      "organiser": "Networking Essex / Aaron Desmond",
+      "type": "Free business networking",
+      "url": "https://www.eventbrite.co.uk/e/free-networking-essex-colchester-thursday-14th-january-12pm-2pm-tickets-2003909050915",
+      "description": "Free, informal lunch-hour networking at Colchester Rugby Club for local business owners and professionals; organiser invites registrations via Eventbrite.",
+      "image_url": ""
+    },
+    {
+      "source_id": "essex-women-in-tech:meetup-004-2027-01-14",
+      "title": "Essex Women in Tech: Meetup 004",
+      "date": "2027-01-14",
+      "time": "18:00 - 20:00",
+      "venue": "Thirst Drinks Syndicate, 23 Viaduct Road, Chelmsford, CM1 1TS",
+      "area": "Chelmsford",
+      "organiser": "Essex Women in Tech",
+      "type": "Free women's professional networking",
+      "url": "https://www.eventbrite.com/e/essex-women-in-tech-meetup-004-tickets-2003991946859",
+      "description": "Free informal networking for women working in technology across Essex, including founders, directors and professionals. Sector-specific community; see organiser's Eventbrite page for registration.",
+      "image_url": ""
+    },
+    {
       "source_id": "helen-baker:purpose-and-profits-launchpad-2027-01-15",
       "title": "Practical Workshop: Purpose and Profits",
       "date": "2027-01-15",
@@ -949,6 +923,32 @@
       "type": "Business and built-environment networking breakfast",
       "url": "https://ceec.wildapricot.org/event-6741142",
       "description": "Informal professional breakfast networking for Essex construction, property and related advisers. Free for members; non-member tickets listed at £20-£25. Booking open through organiser.",
+      "image_url": ""
+    },
+    {
+      "source_id": "networking-essex:chelmsford-2027-01-28",
+      "title": "Networking Essex - Chelmsford",
+      "date": "2027-01-28",
+      "time": "12:00 - 14:00",
+      "venue": "Old Chelmsfordians Association, Roxwell Road, Writtle, Chelmsford, CM1 2NS",
+      "area": "Chelmsford / Writtle",
+      "organiser": "Networking Essex / Aaron Desmond",
+      "type": "Free business networking",
+      "url": "https://www.eventbrite.co.uk/e/free-networking-essex-chelmsford-thursday-28th-january-12pm-2pm-tickets-2003905359875",
+      "description": "Free informal networking for Essex business owners and professionals, with local introductions and opportunities for referrals. Organiser registration is listed on Eventbrite.",
+      "image_url": ""
+    },
+    {
+      "source_id": "networking-essex:colchester-2027-02-11",
+      "title": "Networking Essex - Colchester",
+      "date": "2027-02-11",
+      "time": "12:00 - 14:00",
+      "venue": "Colchester Ravens Park, Cuckoo Farm Way, Colchester, CO4 5JA",
+      "area": "Colchester",
+      "organiser": "Networking Essex / Aaron Desmond",
+      "type": "Free business networking",
+      "url": "https://www.eventbrite.co.uk/e/free-networking-essex-colchester-thursday-11th-february-12pm-2pm-tickets-2003908851318",
+      "description": "Free informal professional networking at Colchester Rugby Club with local company owners and advisers; register through organiser's Eventbrite listing.",
       "image_url": ""
     },
     {
@@ -987,7 +987,7 @@
       "organiser": "Networking Essex",
       "type": "Business expo, exhibition & sponsorship",
       "url": "https://networking-essex.co.uk/south-essex-business-expo-2027/",
-      "description": "Major South Essex business expo with free visitor entry. Exhibition stands and sponsorship enquiries open through organiser at aaron@networking-essex.co.uk; current stand pricing not published on this event page.",
+      "description": "Major South Essex business expo backed by South Essex councils, planning up to 200 stands and 1,000 visitors. Free visitor entry; organiser's Eventbrite listing currently shows visitor tickets 'Not Yet On Sale' (checked 12 November 2026). Exhibitor and sponsorship enquiries open directly with aaron@networking-essex.co.uk; stand prices not published.",
       "image_url": ""
     },
     {
@@ -1053,6 +1053,19 @@
       "type": "Business and property expo; stands and advertising",
       "url": "https://elbusinessexpo.com/",
       "description": "East London Business Expo held alongside Property Expo. Visitor tickets available, exhibition booking offered. Ask organiser to confirm current exhibitor pricing and lower-cost advertising packages.",
+      "image_url": ""
+    },
+    {
+      "source_id": "networking-essex:chelmsford-2027-03-25",
+      "title": "Networking Essex - Chelmsford",
+      "date": "2027-03-25",
+      "time": "12:00 - 14:00",
+      "venue": "Old Chelmsfordians Association, Roxwell Road, Writtle, Chelmsford, CM1 2NS",
+      "area": "Chelmsford / Writtle",
+      "organiser": "Networking Essex / Aaron Desmond",
+      "type": "Free business networking",
+      "url": "https://www.eventbrite.co.uk/e/free-networking-essex-chelmsford-thursday-25th-march-12pm-2pm-tickets-2003906412022",
+      "description": "Free lunchtime business networking, welcoming local owners and professionals for introductions and informal conversations. Registration offered by Networking Essex.",
       "image_url": ""
     },
     {
