@@ -1,111 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T08:08:45.625Z",
+  "generated_at": "2026-11-13T08:05:14.355Z",
   "events": [
-    {
-      "source_id": "enterprise-networking:chelmsford-2026-11-12",
-      "title": "Chelmsford Breakfast Networking Meeting",
-      "date": "2026-11-12",
-      "time": "07:00 - 09:00",
-      "venue": "Museum of Chelmsford, CM2 9AQ",
-      "area": "Chelmsford",
-      "organiser": "Enterprise Networking",
-      "type": "Breakfast networking",
-      "url": "https://enterprisenetworking.co.uk/join-us/",
-      "description": "Fortnightly breakfast networking for local business owners in Chelmsford, with visitor places available.",
-      "image_url": ""
-    },
-    {
-      "source_id": "birketts:employment-immigration-update-chelmsford-2026-11-12",
-      "title": "Birketts' Employment and Immigration Update 2026 - Chelmsford",
-      "date": "2026-11-12",
-      "time": "09:00 - 13:00",
-      "venue": "Birketts LLP, 160-162 New London Road, Chelmsford, CM2 0AP",
-      "area": "Chelmsford / Essex",
-      "organiser": "Birketts LLP",
-      "type": "Legal and employer briefing with professional networking",
-      "url": "https://www.eventbrite.co.uk/e/birketts-employment-and-immigration-update-2026-chelmsford-tickets-1994572083795",
-      "description": "Employment and immigration law briefing for HR professionals and business leaders, hosted by Birketts solicitors. An opportunity to meet legal advisers and employer decision-makers. £125 + VAT per person including refreshments and lunch, per organiser; advance registration, limited places and maximum four bookings per organisation.",
-      "image_url": ""
-    },
-    {
-      "source_id": "redbridge-chamber:mega-networking-2026-11-12",
-      "title": "Redbridge Chamber MEGA Networking",
-      "date": "2026-11-12",
-      "time": "09:30 - 11:30",
-      "venue": "SIRM College, 11 Chapel Road, Ilford, IG1 2DR",
-      "area": "Ilford / East London",
-      "organiser": "Redbridge Chamber of Commerce",
-      "type": "Business chamber networking and exhibitor enquiries",
-      "url": "https://www.eventbrite.co.uk/e/redbridge-chamber-of-commerce-mega-end-of-year-event-tickets-2001065148727",
-      "description": "Professional networking and speed-networking with business owners and decision-makers. Chamber invites enquiries about exhibiting; prices must be confirmed.",
-      "image_url": ""
-    },
-    {
-      "source_id": "essex-business-partnerships:women-wickford-2026-11-12",
-      "title": "Woodham/Wickford - Supporting Women in Business",
-      "date": "2026-11-12",
-      "time": "10:00 - 12:00",
-      "venue": "Frasers Tea Room, Muggeridge Farm, 5 Maltings Road, Battlesbridge, Wickford, SS11 7RF",
-      "area": "Wickford / Battlesbridge",
-      "organiser": "Essex Business Partnerships",
-      "type": "Women in business networking",
-      "url": "https://events.humanitix.com/woodham-wickford-supporting-women-in-business",
-      "description": "Monthly women-in-business networking for professional connections and referrals. Book with organiser.",
-      "image_url": ""
-    },
-    {
-      "source_id": "networking-essex:colchester-2026-11-12",
-      "title": "Networking Essex - Colchester",
-      "date": "2026-11-12",
-      "time": "12:00 - 14:00",
-      "venue": "Colchester Rugby Club, Colchester, CO4 5YX",
-      "area": "Colchester",
-      "organiser": "Networking Essex",
-      "type": "Business networking",
-      "url": "https://networking-essex.co.uk/events/",
-      "description": "Free lunchtime business networking event in Colchester for local professionals and business owners.",
-      "image_url": ""
-    },
-    {
-      "source_id": "rravs:sorp-reporting-workshop-2026-11-12",
-      "title": "Statement of Recommended Practice (SORP) Workshop",
-      "date": "2026-11-12",
-      "time": "12:30 - 15:30",
-      "venue": "Rayleigh Parish Centre, Rectory Garth, Rayleigh, SS6 8BB",
-      "area": "Rayleigh",
-      "organiser": "RRAVS (Rayleigh and Rochford District Association for Voluntary Service)",
-      "type": "Charity finance & reporting workshop",
-      "url": "https://www.eventbrite.co.uk/e/statement-of-recommended-practice-sorp-workshop-tickets-2002797785089",
-      "description": "£20 workshop led by charity consultant Sophie Ede on outcomes evidence and compliant charity Annual Report reporting under new SORP guidelines. Relevant to accountants and advisers working with charities; advance booking required.",
-      "image_url": ""
-    },
-    {
-      "source_id": "fsb-stepping-out:gravesend-2026-11-12",
-      "title": "Stepping Out With FSB Connects - £12.50 Promotional Space",
-      "date": "2026-11-12",
-      "time": "17:30 - 19:30",
-      "venue": "Whitehall Place, 47 The Terrace, Gravesend, DA12 2DL",
-      "area": "Gravesend / Kent",
-      "organiser": "Stepping Out and Federation of Small Businesses",
-      "type": "Free small business networking / low-cost promotion",
-      "url": "https://www.eventbrite.com/e/stepping-out-with-fsb-connects-tickets-1985989378693",
-      "description": "Free business networking open to members and non-members. Organiser advertises a limited number of promotional spaces at £12.50 to display a banner and leave leaflets on a business table; NOT a full exhibition stand. Book in advance; check that promotional spaces remain available.",
-      "image_url": ""
-    },
-    {
-      "source_id": "powered-up:chelmsford-2026-11-12",
-      "title": "Chelmsford - Powered Up Business Networking",
-      "date": "2026-11-12",
-      "time": "19:30 - 21:30",
-      "venue": "The United Brethren, New Writtle Street, Chelmsford, CM2 0LF",
-      "area": "Chelmsford",
-      "organiser": "Powered Up Business Networking",
-      "type": "Evening networking",
-      "url": "https://www.eventbrite.co.uk/e/chelmsford-powered-up-business-networking-november-2026-tickets-2003208682093",
-      "description": "Relaxed evening networking for small business owners and start-ups, with introductions, one-to-ones and a practical guest talk.",
-      "image_url": ""
-    },
     {
       "source_id": "usp-college:big-breakfast-2026-11-13",
       "title": "USP College Big Breakfast",
@@ -354,6 +250,32 @@
       "image_url": ""
     },
     {
+      "source_id": "southend-peers:weekly-business-breakfast-2026-11-19",
+      "title": "Southend Peers - Thursday Referral Networking Breakfast",
+      "date": "2026-11-19",
+      "time": "06:45 - 08:30 (referral round follows)",
+      "venue": "Park Inn by Radisson Palace, Church Road, Southend-on-Sea, SS1 2AL",
+      "area": "Southend-on-Sea",
+      "organiser": "Southend Peers",
+      "type": "Local business referral networking breakfast",
+      "url": "https://southendpeers.co.uk/our-meetings/",
+      "description": "Established local professional networking group meets every Thursday morning. Free first visit by arrangement; contact info@southendpeers.co.uk to confirm the 19 November meeting, reserve a visitor place and check category availability, as membership is one business per industry category. Date follows organiser's weekly Thursday schedule.",
+      "image_url": ""
+    },
+    {
+      "source_id": "chelmsford-city-council:ai-growth-lab-2026-11-19",
+      "title": "Get Better in Chelmsford - Built For Growth: The AI Growth Lab",
+      "date": "2026-11-19",
+      "time": "08:30 - 12:30",
+      "venue": "Essex County Cricket Club, New Writtle Street, Chelmsford, CM2 0PG",
+      "area": "Chelmsford",
+      "organiser": "Better Agency / Chelmsford City Council",
+      "type": "Free business growth seminar and networking breakfast",
+      "url": "https://www.eventbrite.co.uk/e/get-better-in-chelmsford-built-for-growth-the-ai-growth-lab-tickets-1996618849727",
+      "description": "Free breakfast, practical AI growth sessions, demonstrations and open networking for business owners and leaders, organised with Chelmsford City Council. The event promotes an audience of 100+ business owners; advance registration required and capacity is limited. Council links to the organiser's Eventbrite page.",
+      "image_url": ""
+    },
+    {
       "source_id": "ambitious-essex:grow-with-digital-southend-2026-11-19",
       "title": "In Person: Grow with Digital - Scaling & Future-Proofing Your Business",
       "date": "2026-11-19",
@@ -406,6 +328,19 @@
       "image_url": ""
     },
     {
+      "source_id": "british-business-bank:east-england-investment-fund-webinar-2026-11-24",
+      "title": "East of England Investment Fund - Finance Options for Smaller Businesses",
+      "date": "2026-11-24",
+      "time": "10:00 - 11:00",
+      "venue": "Online (Microsoft Teams)",
+      "area": "Online / East of England",
+      "organiser": "British Business Bank",
+      "type": "Free finance webinar for accountants and advisers",
+      "url": "https://events.teams.microsoft.com/event/9ef9bbb2-b8e5-4757-a1a2-67c4e3342e61@f6d853f0-bbb8-4903-bc78-b0fcf77581fb",
+      "description": "Free webinar aimed specifically at accountants, solicitors, lenders, investors and SME business-support advisers. Meet fund managers and discuss commercial debt finance from £25,000 to £2m and equity up to £5m, with Q&A. Launchpad Southend lists 24 November 2026 but prints the wrong weekday; confirm timing on registration.",
+      "image_url": ""
+    },
+    {
       "source_id": "essex-business-partnerships:women-southend-2026-11-24",
       "title": "Southend - Supporting Women in Business",
       "date": "2026-11-24",
@@ -432,6 +367,19 @@
       "image_url": ""
     },
     {
+      "source_id": "havering-chamber:hornchurch-breakfast-2026-11-25",
+      "title": "Havering Chamber of Commerce - Networking Breakfast",
+      "date": "2026-11-25",
+      "time": "08:00 - 09:30",
+      "venue": "The Pink Parachute, 6 North Street, Hornchurch, RM11 1QX",
+      "area": "Havering / East London",
+      "organiser": "Havering Chamber of Commerce & Industry",
+      "type": "Chamber networking breakfast",
+      "url": "https://www.eventbrite.co.uk/e/havering-chamber-of-commerce-networking-meeting-tickets-2003917752943",
+      "description": "Business networking breakfast for owners, professionals and potential referrers; includes breakfast and a presentation from the venue owner. Free for chamber members and first-time visitors, otherwise £10 per visitor. Advance booking required.",
+      "image_url": ""
+    },
+    {
       "source_id": "pbn:chelmsford-2026-11-25",
       "title": "Progressive Business Network Chelmsford",
       "date": "2026-11-25",
@@ -455,6 +403,19 @@
       "type": "Breakfast networking",
       "url": "https://enterprisenetworking.co.uk/join-us/",
       "description": "Fortnightly breakfast networking for local business owners in Chelmsford, with visitor places available.",
+      "image_url": ""
+    },
+    {
+      "source_id": "braintree-council:business-futures-conference-2026-11-26",
+      "title": "Braintree Business Futures - Business Conference",
+      "date": "2026-11-26",
+      "time": "09:00 - 13:30",
+      "venue": "Braxted Park Estate, Great Braxted, Witham, CM8 3EN",
+      "area": "Braintree District / Witham",
+      "organiser": "Braintree District Council / Locate Braintree District",
+      "type": "Free business growth conference and networking",
+      "url": "https://www.eventbrite.co.uk/e/braintree-business-futures-event-tickets-2002934877135",
+      "description": "Free council-hosted business conference with economist Michael Wilson, Professor Eric Smith, workshops on investment, supply chains, skills and regional growth, plus networking with business owners, investors and growth advisers. Lunch and refreshments included. Reserve via council's organiser booking link; check current capacity.",
       "image_url": ""
     },
     {
@@ -692,6 +653,19 @@
       "image_url": ""
     },
     {
+      "source_id": "business-buzz:southend-2026-12-09",
+      "title": "Southend Business Buzz Networking",
+      "date": "2026-12-09",
+      "time": "10:00 - 12:00",
+      "venue": "Grosvenor Casino Southend, Church Road, Southend-on-Sea, SS1 2AL",
+      "area": "Southend-on-Sea",
+      "organiser": "Business Buzz",
+      "type": "Open business networking",
+      "url": "https://www.business-buzz.org/essex/southend/",
+      "description": "Monthly second-Wednesday informal drop-in networking for Southend business owners and professionals, hosted by Anna Watson. Organiser lists £10 + VAT admission and welcomes sponsorship enquiries. Eventbrite lists 9 December at 10am; confirm booking via organiser's booking app.",
+      "image_url": ""
+    },
+    {
       "source_id": "essex-chambers:christmas-networking-stansted-2026-12-09",
       "title": "Essex Chambers Christmas Networking at Radisson Blu Stansted",
       "date": "2026-12-09",
@@ -819,6 +793,19 @@
       "type": "Structured B2B networking",
       "url": "https://synergynetworkingevents.co.uk/networking-in-canterbury/",
       "description": "Mid-morning structured networking with rotating tables for local owners, financial advisers and service professionals. Organiser typically reports 35-40 participants. Book using the organiser's date-specific booking link; check availability and price.",
+      "image_url": ""
+    },
+    {
+      "source_id": "colbea-fsb:festive-networking-harwich-2026-12-15",
+      "title": "Colbea Club Festive Networking with FSB",
+      "date": "2026-12-15",
+      "time": "13:00 - 15:00",
+      "venue": "The Pier, The Quay, Harwich, Essex, CO12 3HH",
+      "area": "Harwich / Tendring",
+      "organiser": "Colbea / Federation of Small Businesses (FSB)",
+      "type": "Free regional business networking",
+      "url": "https://www.ambitiousessex.co.uk/events/colbea-club-festive-networking/",
+      "description": "Free festive networking with Colbea and FSB for SMEs, business owners, regional partners and business advisers; refreshments included. Advance booking available via the Ambitious Essex event page.",
       "image_url": ""
     },
     {
