@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T08:05:14.355Z",
+  "generated_at": "2026-11-24T09:30:00Z",
   "events": [
     {
       "source_id": "usp-college:big-breakfast-2026-11-13",
@@ -468,6 +468,19 @@
       "type": "Accountancy & business networking",
       "url": "https://www.speednetworknow.co.uk/event-details/speed-networking-accountants-business-owners-business-speed-networking",
       "description": "Structured speed networking matching accountants and finance professionals with founders, directors and SME owners.",
+      "image_url": ""
+    },
+    {
+      "source_id": "eventbrite:2004817203223:2026-11-27",
+      "title": "Let's Network - Gas, Leigh-on-Sea",
+      "date": "2026-11-27",
+      "time": "07:00 - 09:00",
+      "venue": "Gas, 43 Progress Road, Leigh-on-Sea, SS9 5PR",
+      "area": "Leigh-on-Sea / Southend",
+      "organiser": "Let's Network",
+      "type": "Informal business breakfast networking",
+      "url": "https://www.eventbrite.co.uk/e/lets-network-tickets-2004817203223",
+      "description": "Informal early morning networking for local business owners at Gas, with tea, coffee and breakfast pastries. Meet other professionals and explore collaboration. Check ticket availability with the organiser.",
       "image_url": ""
     },
     {
